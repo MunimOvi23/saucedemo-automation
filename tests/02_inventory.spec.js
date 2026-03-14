@@ -19,7 +19,7 @@ test.beforeEach(async ({ page }) => {
 });
 
 
-test.describe('🛍️ INVENTORY PAGE TESTS', () => {
+test.describe('INVENTORY PAGE TESTS', () => {
 
 
   // TEST 1: Check that exactly 6 products are displayed

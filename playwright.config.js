@@ -29,7 +29,7 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
   launchOptions: {
-    slowMo: 500, // slows down every action by 1 second
+    slowMo: 800, // slows down every action by 1 second
   },
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
