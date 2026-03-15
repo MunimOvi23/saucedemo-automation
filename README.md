@@ -54,7 +54,7 @@ saucedemo-automation/
 
 ## ✅ Test Coverage
 
-### 🔐 Login Page — `01_login.spec.js`
+### 🔐 Login Page - `01_login.spec.js`
 
 | #    | Test Case                   | Expected Result              |
 | ---- | --------------------------- | ---------------------------- |
@@ -65,7 +65,7 @@ saucedemo-automation/
 
 ---
 
-### 🛍️ Inventory Page — `02_inventory.spec.js`
+### 🛍️ Inventory Page - `02_inventory.spec.js`
 
 | #    | Test Case                             | Expected Result                             |
 | ---- | ------------------------------------- | ------------------------------------------- |
@@ -80,7 +80,7 @@ saucedemo-automation/
 
 ---
 
-### 🛒 Cart Page — `03_cart.spec.js`
+### 🛒 Cart Page - `03_cart.spec.js`
 
 | #    | Test Case                    | Expected Result               |
 | ---- | ---------------------------- | ----------------------------- |
@@ -97,7 +97,7 @@ saucedemo-automation/
 
 ---
 
-### 💳 Checkout — `04_checkout.spec.js`
+### 💳 Checkout - `04_checkout.spec.js`
 
 **Step 1 — Your Info:**
 | # | Test Case | Expected Result |
@@ -109,7 +109,7 @@ saucedemo-automation/
 | TC27 | All fields filled | Moves to step 2 |
 | TC28 | Cancel button | Returns to cart page |
 
-**Step 2 — Order Review:**
+**Step 2 - Order Review:**
 | # | Test Case | Expected Result |
 |---|---|---|
 | TC29 | Step 2 URL is correct | URL = checkout-step-two.html |
