@@ -1,6 +1,6 @@
 # 🧪 Saucedemo Automation Testing Project
 
-An end-to-end automation testing project built with **Playwright** and **JavaScript**, testing the complete user journey on [saucedemo.com](https://www.saucedemo.com) — a demo e-commerce website.
+An end-to-end automation testing project built with **Playwright** and **JavaScript**, testing the complete user journey on [saucedemo.com](https://www.saucedemo.com) - a demo e-commerce website.
 
 ---
 
